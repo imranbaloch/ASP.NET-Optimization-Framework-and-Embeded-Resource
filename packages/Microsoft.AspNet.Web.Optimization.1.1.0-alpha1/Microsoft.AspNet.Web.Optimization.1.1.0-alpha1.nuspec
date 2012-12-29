@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.AspNet.Web.Optimization</id>
+    <version>1.1.0-alpha1</version>
+    <title>Microsoft ASP.NET Web Optimization Framework</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://www.microsoft.com/web/webpi/eula/aspnet_fall_2012_update_prerelease_enu.htm</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>ASP.NET Optimization introduces a way to bundle and optimize css/js files.</description>
+    <tags>Microsoft AspNet optimization bundling minification</tags>
+    <dependencies>
+      <dependency id="Microsoft.Web.Infrastructure" version="1.0.0" />
+      <dependency id="WebGrease" version="1.1.0" />
+    </dependencies>
+  </metadata>
+</package>
